@@ -1,5 +1,5 @@
 _repo: Ten-Thousand-Dreams-Interpreted-Or-What-s-in-a-Dream-A-Scientific-and-Practical-Exposition_926
-_version: 0.2.0
+_version: 0.2.1
 alternative_title: 10,000 Dreams Interpreted
 covers:
 - cover_type: generated
@@ -31,6 +31,7 @@ subjects:
 - !lcsh 'Dream interpretation'
 - !lcsh 'Dreams -- Dictionaries'
 - !lcsh 'Dreams'
+- GITenberg
 title: "Ten Thousand Dreams Interpreted; Or, What's in a Dream\r\nA Scientific and\
   \ Practical Exposition"
 url: http://www.gutenberg.org/ebooks/926
